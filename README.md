@@ -8,7 +8,7 @@
 - `data/model_results.csv` — 10-fold cross-validation and held-out test metrics
 - `data/best_housing_model.joblib` — fitted selected model for deployment
 - `data/five_largest_prediction_errors.csv` — five largest held-out prediction errors
-- `data/part5_ten_property_comparison_template.csv` — ten fixed held-out properties with ML and LLM estimates; Human Estimate is left for the student
+- `data/part5_ten_property_comparison.csv` — ten fixed held-out properties comparing actual sale prices with ML, LLM and human estimates
 - `data/part5_llm_prompts.md` — prompts used for the LLM comparison
 - `app.py` — Gradio deployment application
 - `REPORT_FINAL.pdf` — report with figures and final technical results
@@ -35,17 +35,12 @@ python app.py
 
 The application uses Gradio, loads `data/best_housing_model.joblib`, creates the same engineered features used during training and returns a predicted sale price.
 
-## Part 5 finalisation
+## Part 5 comparison
 
-The notebook selects ten held-out test properties independently of ML error. LLM estimates are included in the template. The **Human Estimate** column is intentionally blank and must be completed with the student's genuine independent estimates. After entering those values, rerun the Part 5 metrics cell and replace/update the report table if required.
+The notebook evaluates ten held-out test properties using three approaches: the selected machine learning model, LLM-based estimates, and independent human estimates. The three sets of predictions are compared with the actual sale prices using MAE and RMSE.
 
-## Final student actions
+The ten properties were selected independently of model prediction error to avoid selecting observations based on the model's performance.
 
-1. Enter the ten Human Estimate values.
-2. Rerun the Part 5 metrics cell and the notebook from start to finish.
-3. Run `python app.py` and capture a genuine screenshot of the working interface.
-4. Add the GitHub project link to the report and repository README.
-5. Recheck the final ZIP before submission.
 
 ## GenAI acknowledgement
 

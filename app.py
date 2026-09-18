@@ -34,7 +34,7 @@ def predict_price(suburb, bedrooms, bathrooms, parking, land_area, sale_year):
 
 
 with gr.Blocks(title="Sydney Housing Price Prediction") as demo:
-    gr.Markdown("# Sydney Housing Price Prediction\nDecision-support prototype using the trained Gradient Boosting model.")
+    gr.Markdown("# Sydney Housing Price Prediction\nDecision-support prototype using the trained Random Forest model.")
     gr.Markdown("Enter the basic property characteristics below. The estimate is a model prediction, not an official valuation.")
     with gr.Row():
         suburb = gr.Dropdown(SUBURBS, value="PARRAMATTA", label="Suburb")

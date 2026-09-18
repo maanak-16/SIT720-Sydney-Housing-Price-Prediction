@@ -1,6 +1,6 @@
 address,locality,sale_year,num_bed,num_bath,num_parking,land_area,source_url,Actual Price,Predicted Price,Absolute Error,Percentage Error
 6 Lavoni Street,MOSMAN,2025,7,4,3.0,715.0,https://www.realestate.com.au/property/6-lavoni-street-mosman-nsw-2088/,11550000,9580420.602678576,1969579.3973214235,17.05263547464436
 30 Beauty Point Road,MOSMAN,2025,5,5,3.0,879.0,https://www.realestate.com.au/property/30-beauty-point-road-mosman-nsw-2088/,11000000,9353900.252976194,1646099.747023806,14.964543154761872
-37 Bond Street,MOSMAN,2025,4,3,2.0,349.0,https://www.realestate.com.au/property/37-bond-street-mosman-nsw-2088/,3820000,5315803.690476191,1495803.6904761912,39.15716467215161
-5 Botanic Road,MOSMAN,2026,4,3,2.0,,https://www.realestate.com.au/property/5-botanic-road-mosman-nsw-2088/,8700000,7577903.481150797,1122096.5188492034,12.897661136197739
+37 Bond Street,MOSMAN,2025,4,3,2.0,349.0,https://www.realestate.com.au/property/37-bond-street-mosman-nsw-2088/,3820000,5315803.690476192,1495803.6904761922,39.15716467215163
+5 Botanic Road,MOSMAN,2026,4,3,2.0,,https://www.realestate.com.au/property/5-botanic-road-mosman-nsw-2088/,8700000,7577903.481150795,1122096.5188492052,12.897661136197762
 2J Middle Head Road,MOSMAN,2024,4,3,2.0,,https://www.realestate.com.au/property/2j-middle-head-road-mosman-nsw-2088/,7450000,8557023.353174608,1107023.3531746082,14.859373868115547
