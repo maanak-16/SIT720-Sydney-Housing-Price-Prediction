@@ -1,11 +1,11 @@
 Property Number,address,locality,sale_year,num_bed,num_bath,num_parking,land_area,source_url,Actual Price,ML Prediction,LLM Estimate,Human Estimate,ML Absolute Error
-1,4 Alma Street,PARRAMATTA,2025,3,1,2.0,582.0,https://www.realestate.com.au/property/4-alma-street-parramatta-nsw-2150/,1430000,1394075.859126984,1550000.0,1500000.0,35924.14087301609
-2,6 Lavoni Street,MOSMAN,2025,7,4,3.0,715.0,https://www.realestate.com.au/property/6-lavoni-street-mosman-nsw-2088/,11550000,9580420.602678576,8800000.0,10200000.0,1969579.3973214235
+1,4 Alma Street,PARRAMATTA,2025,3,1,2.0,582.0,https://www.realestate.com.au/property/4-alma-street-parramatta-nsw-2150/,1430000,1394075.8591269841,1550000.0,1500000.0,35924.14087301586
+2,6 Lavoni Street,MOSMAN,2025,7,4,3.0,715.0,https://www.realestate.com.au/property/6-lavoni-street-mosman-nsw-2088/,11550000,9580420.602678578,8800000.0,10200000.0,1969579.3973214217
 3,41 Gore Street,PARRAMATTA,2025,3,2,1.0,449.0,https://www.realestate.com.au/property/41-gore-street-parramatta-nsw-2150/,1660000,1669069.2013888883,1600000.0,1650000.0,9069.201388888294
 4,28 Eggleton Street,BLACKTOWN,2026,3,1,2.0,866.0,https://www.realestate.com.au/property/28-eggleton-street-blacktown-nsw-2148/,1263000,1336310.9687499995,1350000.0,1300000.0,73310.96874999953
-5,40 Stephen Street,BLACKTOWN,2026,5,3,3.0,338.0,https://www.realestate.com.au/property/40-stephen-street-blacktown-nsw-2148/,1350000,1222296.1755952374,1400000.0,1400000.0,127703.82440476259
-6,5 Botanic Road,MOSMAN,2026,4,3,2.0,,https://www.realestate.com.au/property/5-botanic-road-mosman-nsw-2088/,8700000,7577903.481150795,7000000.0,8000000.0,1122096.5188492052
-7,110 Awaba Street,MOSMAN,2025,5,4,1.0,479.1,https://www.realestate.com.au/property/110-awaba-street-mosman-nsw-2088/,5230000,6210208.46577381,5000000.0,5200000.0,980208.4657738097
-8,158 Railway Street,PARRAMATTA,2025,3,1,2.0,455.0,https://www.realestate.com.au/property/158-railway-street-parramatta-nsw-2150/,1472000,1622081.5446428559,1550000.0,1550000.0,150081.54464285588
+5,40 Stephen Street,BLACKTOWN,2026,5,3,3.0,338.0,https://www.realestate.com.au/property/40-stephen-street-blacktown-nsw-2148/,1350000,1222296.1755952376,1400000.0,1400000.0,127703.82440476236
+6,5 Botanic Road,MOSMAN,2026,4,3,2.0,,https://www.realestate.com.au/property/5-botanic-road-mosman-nsw-2088/,8700000,7577903.481150797,7000000.0,8000000.0,1122096.5188492034
+7,110 Awaba Street,MOSMAN,2025,5,4,1.0,479.1,https://www.realestate.com.au/property/110-awaba-street-mosman-nsw-2088/,5230000,6210208.465773812,5000000.0,5200000.0,980208.4657738116
+8,158 Railway Street,PARRAMATTA,2025,3,1,2.0,455.0,https://www.realestate.com.au/property/158-railway-street-parramatta-nsw-2150/,1472000,1622081.544642856,1550000.0,1550000.0,150081.5446428561
 9,18 Oak Street,PARRAMATTA,2025,6,3,2.0,612.0,https://www.realestate.com.au/property/18-oak-street-parramatta-nsw-2150/,1850000,1659541.5982142857,1950000.0,1900000.0,190458.40178571432
 10,33 Rosehill St,PARRAMATTA,2026,4,1,1.0,691.0,https://www.realestate.com.au/property/33-rosehill-st-parramatta-nsw-2150/,2080000,1707943.095238095,1900000.0,2000000.0,372056.9047619051
