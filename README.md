@@ -44,4 +44,4 @@ The ten properties were selected independently of model prediction error to avoi
 
 ## GenAI acknowledgement
 
-Generative AI was used for planning, code review, debugging support, LLM estimation and editing assistance. Generated suggestions were reviewed and adapted. The student remains responsible for checking the final work, understanding the methods and entering the genuine Human Estimate values.
+Generative AI was used for planning, code review, debugging support, LLM estimation and editing assistance. Generated suggestions were reviewed and adapted. The student remains responsible for checking the final work, understanding the methods and verifying the reported results.
